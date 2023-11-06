@@ -2,7 +2,7 @@
 
 Olá! Sou um profissional apaixonado por Tecnologia da Informação com mais de 15 anos de experiência em liderança de equipes. Atualmente, atuo como Gerente de Plantão, liderando uma equipe de mais de 40 colaboradores em controle de qualidade e segurança alimentar.
 
-O Que Eu Ofereço
+O Que Eu Ofereço <br>
 Liderança e gestão de equipes.
 Tomada de decisões sob pressão.
 Compromisso com excelência operacional.
