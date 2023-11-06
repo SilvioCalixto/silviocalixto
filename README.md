@@ -9,6 +9,7 @@ Tomada de decisões sob pressão. <br>
 Compromisso com excelência operacional. <br>
 Formação em Recursos Humanos e Análise e Desenvolvimento de Sistemas. <br>
 Conhecimento técnico em programação e segurança da informação. <br>
+<br>
 Meu Objetivo <br>
 <br>
 Estou sempre atualizado com as tendências tecnológicas e busco aplicar minha paixão pela tecnologia para criar soluções inovadoras que aprimorem operações e atendam às necessidades de negócios. <br>
