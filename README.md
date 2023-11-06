@@ -1,12 +1,12 @@
-# 💫 About Me:
-Sobre Mim
+💫 About Me:
+
 Olá! Sou um profissional apaixonado por Tecnologia da Informação com mais de 15 anos de experiência em liderança de equipes. Atualmente, atuo como Gerente de Plantão, liderando uma equipe de mais de 40 colaboradores em controle de qualidade e segurança alimentar.
 
 O Que Eu Ofereço
 Liderança e gestão de equipes.
 Tomada de decisões sob pressão.
 Compromisso com excelência operacional.
-Formação em Recursos Humanos e Tecnologia.
+Formação em Recursos Humanos e Análise e Desenvolvimento de Sistemas.
 Conhecimento técnico em programação e segurança da informação.
 Meu Objetivo
 Estou sempre atualizado com as tendências tecnológicas e busco aplicar minha paixão pela tecnologia para criar soluções inovadoras que aprimorem operações e atendam às necessidades de negócios.
