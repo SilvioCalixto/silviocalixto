@@ -3,16 +3,16 @@
 Olá! Sou um profissional apaixonado por Tecnologia da Informação com mais de 15 anos de experiência em liderança de equipes. Atualmente, atuo como Gerente de Plantão, liderando uma equipe de mais de 40 colaboradores em controle de qualidade e segurança alimentar.
 
 O Que Eu Ofereço <br>
-Liderança e gestão de equipes.
-Tomada de decisões sob pressão.
-Compromisso com excelência operacional.
-Formação em Recursos Humanos e Análise e Desenvolvimento de Sistemas.
-Conhecimento técnico em programação e segurança da informação.
-Meu Objetivo
-Estou sempre atualizado com as tendências tecnológicas e busco aplicar minha paixão pela tecnologia para criar soluções inovadoras que aprimorem operações e atendam às necessidades de negócios.
+Liderança e gestão de equipes. <br>
+Tomada de decisões sob pressão.<br>
+Compromisso com excelência operacional.<br>
+Formação em Recursos Humanos e Análise e Desenvolvimento de Sistemas.<br>
+Conhecimento técnico em programação e segurança da informação.<br>
+Meu Objetivo<br>
+Estou sempre atualizado com as tendências tecnológicas e busco aplicar minha paixão pela tecnologia para criar soluções inovadoras que aprimorem operações e atendam às necessidades de negócios.<br>
 
-Vamos Construir o Futuro Juntos
-Estou pronto para explorar oportunidades que combinem minha experiência em gestão com minha paixão pela tecnologia. Se você busca um profissional com essa abordagem única, estou à disposição para uma conversa e para contribuir para o sucesso de sua organização. Juntos, podemos construir um futuro empolgante.
+Vamos Construir o Futuro Juntos <br>
+Estou pronto para explorar oportunidades que combinem minha experiência em gestão com minha paixão pela tecnologia. Se você busca um profissional com essa abordagem única, estou à disposição para uma conversa e para contribuir para o sucesso de sua organização. Juntos, podemos construir um futuro empolgante. <br>
 
 
 ## 🌐 Socials:
