@@ -5,7 +5,8 @@ Olá! Sou um profissional apaixonado por Tecnologia da Informação com mais de 
 O Que Eu Ofereço <br/>
 <br/>
 Liderança e gestão de equipes. <br/>
-Tomada de decisões sob pressão. <br/>
+Tomada de decisões sob pressão. 
+<br/>
 Compromisso com excelência operacional. <br/>
 Formação em Recursos Humanos e Análise e Desenvolvimento de Sistemas. <br/>
 Conhecimento técnico em programação e segurança da informação. <br/>
